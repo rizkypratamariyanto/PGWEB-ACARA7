@@ -1,6 +1,6 @@
 <?php
     $pesan = "Selamat belajar PHP";
-    //echo "Selamat datang " . $pesan;
+    echo "Selamat datang " . $pesan;
 
     $cars = array("Volvo", "BMW", "Toyota");
     echo $cars [1];
